@@ -81,6 +81,7 @@ More than twenty projects are in the [case studies repo](https://github.com/talh
 - **[wp-malware-scan](https://github.com/talha55/wp-malware-scan)**: Offline, read-only scanner for WordPress database dumps and site files, written in Python with no dependencies. It flags backdoors, injected scripts, rogue options and spam, gives a clear verdict, and says plainly what it could not check.
 - **[ui-design-skill](https://github.com/talha55/ui-design-skill)**: A skill for Claude that designs and builds bold, animated marketing sites: one strong idea, choreographed scroll and pointer animation with Motion and Lenis, verified photos and video, and nothing invented about the business.
 - **[next-chatbot-kit](https://github.com/talha55/next-chatbot-kit)**: Copyable Next.js chat assistant for small-business sites: a chat widget, a streaming Claude route set up to answer from the content you write, lead capture by email or webhook, and guard rails against abuse and invented answers. [Live demo](https://next-chatbot-kit-phi.vercel.app)
+- **[site-audit-cli](https://github.com/talha55/site-audit-cli)**: Command-line site audit with 69 checks for SEO, health, performance and static accessibility. It obeys robots.txt and paces its requests, reports findings with a fix for each one and no score, and writes text, JSON, Markdown or one self-contained HTML report to hand to a client.
 
 ## Working with agencies
 
