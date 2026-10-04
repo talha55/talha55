@@ -1,6 +1,6 @@
-<img src="assets/banner.png" alt="Talha Muneer, full-stack developer for agencies and small businesses" width="100%">
+<img src="assets/banner.png" alt="Talha Muneer, full-stack developer for agencies and international clients" width="100%">
 
-I build and ship production websites and web apps for agencies that need a reliable overflow or white-label developer, and for international clients and small businesses that want a site that brings in work. Current and past clients are in the United States and Australia. Next.js, Node, PHP and Laravel, WordPress, Shopify, Webflow.
+I build and ship production websites and web apps for agencies that need a reliable overflow or white-label developer, and for clients of every size, from small businesses to large international firms. My clients are in the United States, Australia, the United Kingdom and across Europe. Next.js, Node, PHP and Laravel, WordPress, Shopify, Webflow.
 
 ## Selected work
 
