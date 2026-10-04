@@ -1,61 +1,67 @@
-# Talha Muneer
+<img src="assets/banner.png" alt="Talha Muneer, full-stack developer for agencies and small businesses" width="100%">
 
-**Senior Full-Stack Developer**  
-I build fast, reliable web products that scale—headless sites, e-commerce, and APIs.
+I build and ship production websites and web apps for agencies that need a reliable overflow or white-label developer, and for small businesses that want a site that brings in work. Next.js, Node, PHP and Laravel, WordPress, Shopify, Webflow.
 
----
+## Selected work
 
-### What I do
-- **Headless & hybrid web apps:** Next.js + WordPress/Shopify/Webflow
-- **E-commerce:** custom themes, apps, and storefronts; payments, webhooks, analytics
-- **APIs & integrations:** REST services in Node.js/PHP; CRM, email, search
-- **Performance & SEO:** Core Web Vitals, accessibility, structured data, caching
-- **Delivery:** Vercel/AWS, GitHub Actions CI/CD, code reviews, performance budgets
+<table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://audit.rizingmetrics.com"><img src="https://raw.githubusercontent.com/talha55/case-studies/main/assets/rizing-growth-os/hero.png" alt="Rizing Growth OS"></a><br>
+<b>Rizing Growth OS</b><br>
+AI website-audit SaaS: NestJS API, Postgres, staging and production on DigitalOcean, Next.js front end on Vercel.<br>
+<a href="https://github.com/talha55/case-studies/blob/main/rizing-growth-os.md">Case study</a> · <a href="https://audit.rizingmetrics.com">Live</a>
+</td>
+<td width="50%" valign="top">
+<a href="https://viewre.com.au"><img src="https://raw.githubusercontent.com/talha55/case-studies/main/assets/view-real-estate/hero.png" alt="View Real Estate"></a><br>
+<b>View Real Estate</b><br>
+Real-estate agency site with listings synced from the Reapit CRM via a REAXML feed, built in Laravel for shared hosting.<br>
+<a href="https://github.com/talha55/case-studies/blob/main/view-real-estate.md">Case study</a> · <a href="https://viewre.com.au">Live</a>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://www.atlantaink.com"><img src="https://raw.githubusercontent.com/talha55/case-studies/main/assets/atlanta-ink/hero.png" alt="ATLANTA INK"></a><br>
+<b>ATLANTA INK</b><br>
+Brand-led Next.js site for a tattoo studio plus a standalone voucher-booking app with its own admin calendar.<br>
+<a href="https://github.com/talha55/case-studies/blob/main/atlanta-ink.md">Case study</a> · <a href="https://www.atlantaink.com">Live</a>
+</td>
+<td width="50%" valign="top">
+<a href="https://www.mowgreengrass.com"><img src="https://raw.githubusercontent.com/talha55/case-studies/main/assets/mow-ampturf/hero.png" alt="Mow, Inc. and AMPTurf"></a><br>
+<b>Mow, Inc. and AMPTurf</b><br>
+Two lawn-care brands split into two Next.js sites with shared tooling and strict brand separation.<br>
+<a href="https://github.com/talha55/case-studies/blob/main/mow-ampturf.md">Case study</a> · <a href="https://www.mowgreengrass.com">Live</a>
+</td>
+</tr>
+</table>
 
-### Recent highlights
-- Next.js + Shopify storefront → sub-2s LCP and higher conversion
-- WordPress → **headless** migration with a reusable component library
-- Reusable REST API (Node.js/PHP) adopted across multiple products
+More in the [case studies repo](https://github.com/talha55/case-studies), including a WordPress security cleanup across several sites.
 
----
+## Open source
 
-### Toolbox
-**Web:** Next.js • React • Node.js • PHP • TypeScript • JavaScript  
-**Data:** MySQL • MongoDB  
-**CMS & Commerce:** WordPress (Gutenberg/ACF) • Shopify (Liquid, Storefront/Admin APIs) • Webflow  
-**Infra & DX:** AWS • Vercel • GitHub Actions • Docker • Lighthouse • GA4/GTM
+| Project | What it is |
+|---|---|
+| [next-headless-starter](https://github.com/talha55/next-headless-starter) | Next.js 16 starter for headless WordPress: typed content layer, WPGraphQL adapter, editor preview, instant revalidation, SEO, tests, and a Lighthouse budget in CI. [Live demo](https://next-headless-starter.vercel.app) |
+| [reaxml-parser](https://github.com/talha55/reaxml-parser) | TypeScript parser for REAXML real-estate feeds: typed listings, a normalising layer for the traps real feeds contain, structured diagnostics, and a validate command-line tool. |
 
----
+## Working with agencies
 
-### How I work
-- Product-minded, performance-first, and SEO-aware  
-- Ship small, measure impact, automate the boring parts  
-- Clear communication and documentation for smooth handoffs
+- White-label by default. Your name on the work, your client relationship, my code.
+- Your repo or mine. I work inside your GitHub org and process when you have one.
+- Daily async updates in writing. No surprises on Friday.
+- Documented handoff on every project: README, environment notes, deploy steps, and a recorded walkthrough when it helps.
+- Overlapping Australian and US hours, agreed per project.
 
----
+## Stack
 
-### Selected case snapshots
-- **Headless marketing site** (Next.js + WordPress): faster publishing and improved CWV  
-- **Shopify build**: custom checkout integrations and automated feeds  
-- **API platform**: modular services, shared auth, and observability baked in
+- Front end: Next.js, React, TypeScript, Tailwind
+- Back end: Node, NestJS, PHP, Laravel, REST APIs
+- Data: PostgreSQL, MySQL, MongoDB, Supabase
+- CMS and commerce: WordPress, Shopify, Webflow
+- Infrastructure: Vercel, DigitalOcean, Docker, Coolify, GitHub Actions, cPanel
 
----
+## Contact
 
-### Connect
-📧 **talha.tech01@gmail.com**  
-💼 LinkedIn: https://www.linkedin.com/in/talha-muneer/
-
-> Open to collaborations, consulting, and interesting build problems.
-
-
-[![Next.js](https://img.shields.io/badge/Next.js-000?logo=nextdotjs)]()
-[![Node.js](https://img.shields.io/badge/Node.js-000?logo=nodedotjs)]()
-[![PHP](https://img.shields.io/badge/PHP-000?logo=php)]()
-[![MySQL](https://img.shields.io/badge/MySQL-000?logo=mysql)]()
-[![MongoDB](https://img.shields.io/badge/MongoDB-000?logo=mongodb)]()
-[![WordPress](https://img.shields.io/badge/WordPress-000?logo=wordpress)]()
-[![Shopify](https://img.shields.io/badge/Shopify-000?logo=shopify)]()
-[![Webflow](https://img.shields.io/badge/Webflow-000?logo=webflow)]()
-[![AWS](https://img.shields.io/badge/AWS-000?logo=amazon-aws)]()
-[![Vercel](https://img.shields.io/badge/Vercel-000?logo=vercel)]()
-
+- Email: talha.tech01@gmail.com
+- Website: https://www.talhamuneer.com
+- LinkedIn: https://www.linkedin.com/in/talha-muneer/
