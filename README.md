@@ -1,6 +1,15 @@
-<img src="assets/banner.png" alt="Talha Muneer, full-stack developer for agencies and international clients" width="100%">
+<img src="assets/banner-ai.png" alt="Talha Muneer, full-stack and AI automation developer for agencies and international clients" width="100%">
 
-I build and ship production websites and web apps for agencies that need a reliable overflow or white-label developer, and for clients of every size, from small businesses to large international firms. My clients are in the United States, Australia, the United Kingdom and across Europe. Next.js, Node, PHP and Laravel, WordPress, Shopify, Webflow.
+I build and ship production websites, web apps and AI automations for agencies that need a reliable overflow or white-label developer, and for clients of every size, from small businesses to large international firms. My clients are in the United States, Australia, the United Kingdom and across Europe. Next.js, Node, PHP and Laravel, WordPress, Shopify, Webflow.
+
+## AI and automation
+
+Most AI demos stop at the chat box. I build the part after it: the queue, the retries, the cost limits, the fallbacks, and the hand-off to a person or a CRM, so the automation keeps working when nobody is watching it.
+
+- **Multi-model pipelines.** The [Rizing Growth OS](https://github.com/talha55/case-studies/blob/main/rizing-growth-os.md) audit engine asks ChatGPT, Gemini and Perplexity how they describe a business, combines that with crawl and Google data, and turns it into a scored report. It runs unattended on a job queue, and one failed provider gives a partial report, not a failed one.
+- **Assistants that know the business.** Chat assistants on client sites such as [ATLANTA INK](https://github.com/talha55/case-studies/blob/main/atlanta-ink.md) and [Affordable Patio Covers](https://github.com/talha55/case-studies/blob/main/affordable-patio-covers.md) answer only from the site's own content, follow written rules about what they may not promise, and pass a qualified lead to the owner's inbox.
+- **Lead and reporting automation.** Leads flow from forms and chat into email and CRM, and reports are generated, stored and delivered without a person in the loop.
+- **Built to be trusted.** Rate limits, input caps, server-side keys, labelled assistants that never pose as a person, and tests around the parts that touch money or customers.
 
 ## Selected work
 
@@ -56,6 +65,7 @@ More in the [case studies repo](https://github.com/talha55/case-studies), includ
 
 - Front end: Next.js, React, TypeScript, Tailwind
 - Back end: Node, NestJS, PHP, Laravel, REST APIs
+- AI: Claude, OpenAI, Gemini and Perplexity APIs, tool-calling agents, MCP integrations, queued LLM pipelines, site-grounded chat assistants
 - Data: PostgreSQL, MySQL, MongoDB, Supabase
 - CMS and commerce: WordPress, Shopify, Webflow
 - Infrastructure: Vercel, DigitalOcean, Docker, Coolify, GitHub Actions, cPanel
