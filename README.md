@@ -42,9 +42,37 @@ Two lawn-care brands split into two Next.js sites with shared tooling and strict
 <a href="https://github.com/talha55/case-studies/blob/main/mow-ampturf.md">Case study</a> · <a href="https://www.mowgreengrass.com">Live</a>
 </td>
 </tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://www.daveandbusters.au"><img src="https://raw.githubusercontent.com/talha55/case-studies/main/assets/dave-and-busters/hero.png" alt="Dave &amp; Buster's Perth"></a><br>
+<b>Dave &amp; Buster's Perth</b><br>
+Webflow site for the entertainment venue: dining, arcade, sport, functions, bookings and gift cards.<br>
+<a href="https://github.com/talha55/case-studies/blob/main/dave-and-busters.md">Case study</a> · <a href="https://www.daveandbusters.au">Live</a>
+</td>
+<td width="50%" valign="top">
+<a href="https://teysha.com.au"><img src="https://raw.githubusercontent.com/talha55/case-studies/main/assets/teysha/hero.png" alt="Teysha"></a><br>
+<b>Teysha</b><br>
+Shopify store for an organic cotton clothing brand, with collections, a product quiz and a size guide.<br>
+<a href="https://github.com/talha55/case-studies/blob/main/teysha.md">Case study</a> · <a href="https://teysha.com.au">Live</a>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://www.medvieweducation.org"><img src="https://raw.githubusercontent.com/talha55/case-studies/main/assets/medview-education/hero.png" alt="MedView Education"></a><br>
+<b>MedView Education</b><br>
+Large Webflow CMS site for a medical admissions coaching company: programs, events and a resource library.<br>
+<a href="https://github.com/talha55/case-studies/blob/main/medview-education.md">Case study</a> · <a href="https://www.medvieweducation.org">Live</a>
+</td>
+<td width="50%" valign="top">
+<a href="https://heritagefinance.com.au"><img src="https://raw.githubusercontent.com/talha55/case-studies/main/assets/heritage-finance/hero.png" alt="Heritage Finance"></a><br>
+<b>Heritage Finance</b><br>
+WordPress site for a finance group, with a gateway home page and a section for each of three divisions.<br>
+<a href="https://github.com/talha55/case-studies/blob/main/heritage-finance.md">Case study</a> · <a href="https://heritagefinance.com.au">Live</a>
+</td>
+</tr>
 </table>
 
-More in the [case studies repo](https://github.com/talha55/case-studies), including a WordPress security cleanup across several sites.
+More than twenty projects are in the [case studies repo](https://github.com/talha55/case-studies), across custom Next.js and Laravel builds, Webflow, Shopify and WordPress, plus a WordPress security cleanup across several sites.
 
 ## Open source
 
