@@ -80,6 +80,7 @@ More than twenty projects are in the [case studies repo](https://github.com/talh
 |---|---|
 | [next-headless-starter](https://github.com/talha55/next-headless-starter) | Next.js 16 starter for headless WordPress: typed content layer, WPGraphQL adapter, editor preview, instant revalidation, SEO, tests, and a Lighthouse budget in CI. [Live demo](https://next-headless-starter.vercel.app) |
 | [reaxml-parser](https://github.com/talha55/reaxml-parser) | TypeScript parser for REAXML real-estate feeds: typed listings, a normalising layer for the traps real feeds contain, structured diagnostics, and a validate command-line tool. |
+| [next-chatbot-kit](https://github.com/talha55/next-chatbot-kit) | Copyable Next.js chat assistant for small-business sites: a chat widget, a streaming Claude route that answers only from the content you write, lead capture by email or webhook, and guard rails against abuse and invented answers. [Live demo](https://next-chatbot-kit-phi.vercel.app) |
 
 ## Working with agencies
 
