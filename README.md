@@ -127,6 +127,16 @@ TypeScript parser for REAXML real-estate feeds: typed, normalised listings, stru
 </tr>
 </table>
 
+## Contributions
+
+Fixes sent to open-source projects I use.
+
+| Project | Change | Status |
+|---|---|---|
+| [WPGraphQL](https://github.com/wp-graphql/wp-graphql) | [Update links to moved extension repositories in the docs](https://github.com/wp-graphql/wp-graphql/pull/4395) | <img src="https://img.shields.io/github/pulls/detail/state/wp-graphql/wp-graphql/4395?style=flat-square&label=" alt="Pull request status"> |
+| [fast-xml-parser](https://github.com/NaturalIntelligence/fast-xml-parser) | [Replace a dead link in the users list](https://github.com/NaturalIntelligence/fast-xml-parser/pull/885) | <img src="https://img.shields.io/github/pulls/detail/state/NaturalIntelligence/fast-xml-parser/885?style=flat-square&label=" alt="Pull request status"> |
+| [WPGraphQL](https://github.com/wp-graphql/wp-graphql) | [Pointed out that issue #3180 was already fixed in v2.20.0](https://github.com/wp-graphql/wp-graphql/issues/3180#issuecomment-5988576234) | comment |
+
 ## Forks
 
 Forks of the open-source projects my published work is built on.
