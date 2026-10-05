@@ -88,6 +88,7 @@ A Claude skill that designs and builds bold, animated marketing sites: one stron
 <td width="50%" valign="top">
 <a href="https://github.com/talha55/next-chatbot-kit"><img src="assets/oss/next-chatbot-kit.jpg" alt="Chat assistant open on the demo site of an invented dental practice"></a><br>
 <b><a href="https://github.com/talha55/next-chatbot-kit">next-chatbot-kit</a></b>&nbsp;
+<img src="https://img.shields.io/github/v/release/talha55/next-chatbot-kit?style=flat-square&label=release&color=2ea44f&cacheSeconds=3600" alt="Latest release">
 <img src="https://img.shields.io/github/languages/top/talha55/next-chatbot-kit?style=flat-square&color=3178c6" alt="Main language"><br>
 Copyable Next.js chat assistant for small-business sites. It answers from the content you write, captures leads by email or webhook, and has guard rails against abuse and invented answers. <a href="https://next-chatbot-kit-phi.vercel.app">Live demo</a>
 </td>
