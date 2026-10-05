@@ -127,6 +127,29 @@ TypeScript parser for REAXML real-estate feeds: typed, normalised listings, stru
 </tr>
 </table>
 
+## Forks
+
+Forks of the open-source projects my published work is built on.
+
+<table>
+<tr>
+<td width="50%" valign="top"><img src="https://github.com/vercel.png?size=80" width="40" align="left" alt="">&nbsp;<b><a href="https://github.com/talha55/next.js">next.js</a></b> <img src="https://img.shields.io/github/stars/vercel/next.js?style=flat-square&label=stars&color=e3b341" alt="Stars"><br>&nbsp;Fork of <a href="https://github.com/vercel/next.js">vercel/next.js</a>. Used in next-headless-starter, next-chatbot-kit and client sites.</td>
+<td width="50%" valign="top"><img src="https://github.com/wp-graphql.png?size=80" width="40" align="left" alt="">&nbsp;<b><a href="https://github.com/talha55/wp-graphql">wp-graphql</a></b> <img src="https://img.shields.io/github/stars/wp-graphql/wp-graphql?style=flat-square&label=stars&color=e3b341" alt="Stars"><br>&nbsp;Fork of <a href="https://github.com/wp-graphql/wp-graphql">wp-graphql/wp-graphql</a>. Used in next-headless-starter.</td>
+</tr>
+<tr>
+<td width="50%" valign="top"><img src="https://github.com/anthropics.png?size=80" width="40" align="left" alt="">&nbsp;<b><a href="https://github.com/talha55/anthropic-sdk-typescript">anthropic-sdk-typescript</a></b> <img src="https://img.shields.io/github/stars/anthropics/anthropic-sdk-typescript?style=flat-square&label=stars&color=e3b341" alt="Stars"><br>&nbsp;Fork of <a href="https://github.com/anthropics/anthropic-sdk-typescript">anthropics/anthropic-sdk-typescript</a>. Used in next-chatbot-kit.</td>
+<td width="50%" valign="top"><img src="https://github.com/NaturalIntelligence.png?size=80" width="40" align="left" alt="">&nbsp;<b><a href="https://github.com/talha55/fast-xml-parser">fast-xml-parser</a></b> <img src="https://img.shields.io/github/stars/NaturalIntelligence/fast-xml-parser?style=flat-square&label=stars&color=e3b341" alt="Stars"><br>&nbsp;Fork of <a href="https://github.com/NaturalIntelligence/fast-xml-parser">NaturalIntelligence/fast-xml-parser</a>. Used in reaxml-parser.</td>
+</tr>
+<tr>
+<td width="50%" valign="top"><img src="https://github.com/cheeriojs.png?size=80" width="40" align="left" alt="">&nbsp;<b><a href="https://github.com/talha55/cheerio">cheerio</a></b> <img src="https://img.shields.io/github/stars/cheeriojs/cheerio?style=flat-square&label=stars&color=e3b341" alt="Stars"><br>&nbsp;Fork of <a href="https://github.com/cheeriojs/cheerio">cheeriojs/cheerio</a>. Used in site-audit-cli.</td>
+<td width="50%" valign="top"><img src="https://github.com/vitest-dev.png?size=80" width="40" align="left" alt="">&nbsp;<b><a href="https://github.com/talha55/vitest">vitest</a></b> <img src="https://img.shields.io/github/stars/vitest-dev/vitest?style=flat-square&label=stars&color=e3b341" alt="Stars"><br>&nbsp;Fork of <a href="https://github.com/vitest-dev/vitest">vitest-dev/vitest</a>. The test runner in four of my open-source projects.</td>
+</tr>
+<tr>
+<td width="50%" valign="top"><img src="https://github.com/darkroomengineering.png?size=80" width="40" align="left" alt="">&nbsp;<b><a href="https://github.com/talha55/lenis">lenis</a></b> <img src="https://img.shields.io/github/stars/darkroomengineering/lenis?style=flat-square&label=stars&color=e3b341" alt="Stars"><br>&nbsp;Fork of <a href="https://github.com/darkroomengineering/lenis">darkroomengineering/lenis</a>. Smooth scrolling in ui-design-skill.</td>
+<td width="50%" valign="top"><img src="https://github.com/motiondivision.png?size=80" width="40" align="left" alt="">&nbsp;<b><a href="https://github.com/talha55/motion">motion</a></b> <img src="https://img.shields.io/github/stars/motiondivision/motion?style=flat-square&label=stars&color=e3b341" alt="Stars"><br>&nbsp;Fork of <a href="https://github.com/motiondivision/motion">motiondivision/motion</a>. Animation in ui-design-skill.</td>
+</tr>
+</table>
+
 ## Working with agencies
 
 - White-label by default. Your name on the work, your client relationship, my code.
