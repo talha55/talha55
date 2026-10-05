@@ -32,7 +32,7 @@ Real-estate agency site with listings synced from the Reapit CRM via a REAXML fe
 <td width="50%" valign="top">
 <a href="https://www.atlantaink.com"><img src="assets/work/atlanta-ink.jpg" alt="ATLANTA INK"></a><br>
 <b>ATLANTA INK</b><br>
-Brand-led Next.js site for a tattoo studio plus a standalone voucher-booking app with its own admin calendar.<br>
+Brand-led Next.js site for a tattoo studio, plus an event booking app that redeems vouchers, takes card deposits for paid designs, and has its own admin calendar.<br>
 <a href="https://github.com/talha55/case-studies/blob/main/atlanta-ink.md">Case study</a> · <a href="https://www.atlantaink.com">Live</a>
 </td>
 <td width="50%" valign="top">
