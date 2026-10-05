@@ -81,7 +81,7 @@ More than twenty projects are in the [case studies repo](https://github.com/talh
 <td width="50%" valign="top">
 <a href="https://github.com/talha55/ui-design-skill"><img src="assets/oss/ui-design-skill.jpg" alt="Four websites built with UI Design Skill: a plumber, a wood-fire restaurant, a strength gym and a florist"></a><br>
 <b><a href="https://github.com/talha55/ui-design-skill">ui-design-skill</a></b>&nbsp;
-<img src="https://img.shields.io/github/v/release/talha55/ui-design-skill?style=flat-square&label=release&color=2ea44f" alt="Latest release">
+<img src="https://img.shields.io/github/v/release/talha55/ui-design-skill?style=flat-square&label=release&color=2ea44f&cacheSeconds=3600" alt="Latest release">
 <img src="https://img.shields.io/badge/Claude-skill-d97757?style=flat-square" alt="Claude skill"><br>
 A Claude skill that designs and builds bold, animated marketing sites: one strong idea, scroll and pointer animation with Motion, verified photos and video, and nothing invented about the business.
 </td>
@@ -96,14 +96,14 @@ Copyable Next.js chat assistant for small-business sites. It answers from the co
 <td width="50%" valign="top">
 <a href="https://github.com/talha55/site-audit-cli"><img src="assets/oss/site-audit-cli.jpg" alt="HTML audit report with a summary table and a list of fixes in priority order"></a><br>
 <b><a href="https://github.com/talha55/site-audit-cli">site-audit-cli</a></b>&nbsp;
-<img src="https://img.shields.io/github/v/release/talha55/site-audit-cli?style=flat-square&label=release&color=2ea44f" alt="Latest release">
+<img src="https://img.shields.io/github/v/release/talha55/site-audit-cli?style=flat-square&label=release&color=2ea44f&cacheSeconds=3600" alt="Latest release">
 <img src="https://img.shields.io/github/languages/top/talha55/site-audit-cli?style=flat-square&color=3178c6" alt="Main language"><br>
 Site audit with 69 checks for SEO, health, performance and accessibility. A polite crawler, a fix for every finding, no score, and a self-contained HTML report to hand to a client.
 </td>
 <td width="50%" valign="top">
 <a href="https://github.com/talha55/wp-malware-scan"><img src="assets/oss/wp-malware-scan.jpg" alt="Terminal output of wp-malware-scan reporting a fully compromised verdict for a test dump"></a><br>
 <b><a href="https://github.com/talha55/wp-malware-scan">wp-malware-scan</a></b>&nbsp;
-<img src="https://img.shields.io/github/v/release/talha55/wp-malware-scan?style=flat-square&label=release&color=2ea44f" alt="Latest release">
+<img src="https://img.shields.io/github/v/release/talha55/wp-malware-scan?style=flat-square&label=release&color=2ea44f&cacheSeconds=3600" alt="Latest release">
 <img src="https://img.shields.io/github/languages/top/talha55/wp-malware-scan?style=flat-square&color=3572a5" alt="Main language"><br>
 Offline, read-only malware scanner for WordPress database dumps and site files, with no dependencies. A clear verdict, and a plain statement of anything it could not check.
 </td>
@@ -112,14 +112,14 @@ Offline, read-only malware scanner for WordPress database dumps and site files, 
 <td width="50%" valign="top">
 <a href="https://github.com/talha55/next-headless-starter"><img src="assets/oss/next-headless-starter.jpg" alt="The live demo of the headless WordPress starter, an invented design studio site"></a><br>
 <b><a href="https://github.com/talha55/next-headless-starter">next-headless-starter</a></b>&nbsp;
-<img src="https://img.shields.io/github/v/release/talha55/next-headless-starter?style=flat-square&label=release&color=2ea44f" alt="Latest release">
+<img src="https://img.shields.io/github/v/release/talha55/next-headless-starter?style=flat-square&label=release&color=2ea44f&cacheSeconds=3600" alt="Latest release">
 <img src="https://img.shields.io/github/languages/top/talha55/next-headless-starter?style=flat-square&color=3178c6" alt="Main language"><br>
 Next.js 16 starter for headless WordPress: typed content layer, WPGraphQL adapter, editor preview, instant revalidation, SEO, and a Lighthouse budget in CI. <a href="https://next-headless-starter.vercel.app">Live demo</a>
 </td>
 <td width="50%" valign="top">
 <a href="https://github.com/talha55/reaxml-parser"><img src="assets/oss/reaxml-parser.jpg" alt="Terminal output of the REAXML validator summarising twelve listings by kind and status"></a><br>
 <b><a href="https://github.com/talha55/reaxml-parser">reaxml-parser</a></b>&nbsp;
-<img src="https://img.shields.io/github/v/release/talha55/reaxml-parser?style=flat-square&label=release&color=2ea44f" alt="Latest release">
+<img src="https://img.shields.io/github/v/release/talha55/reaxml-parser?style=flat-square&label=release&color=2ea44f&cacheSeconds=3600" alt="Latest release">
 <img src="https://img.shields.io/github/languages/top/talha55/reaxml-parser?style=flat-square&color=3178c6" alt="Main language"><br>
 TypeScript parser for REAXML real-estate feeds: typed, normalised listings, structured diagnostics for the traps real feeds contain, and a validate command-line tool.
 </td>
